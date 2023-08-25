@@ -5,6 +5,7 @@ print("Escolha a operação a ser realizada: ")
 print("1 = Adição (+)")
 print("2 = Subtração (-)")
 print("3 = Multiplicação (*)")
+print("4 = Divisão (/)")
 
 op=(int(input("Opção: ")))
 
